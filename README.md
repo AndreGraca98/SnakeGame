@@ -1,4 +1,7 @@
 # Snake-Game
+Mini game just to pass time
 
 ## TODO
-_ [x]
+- [x] Base classes 
+- [ ] Colisions 
+- [ ] Other
