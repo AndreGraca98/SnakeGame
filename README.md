@@ -1,5 +1,5 @@
 # Snake-Game
-Mini game just to pass time
+Snake mini game
 
 ## TODO
 - [x] Base classes 
